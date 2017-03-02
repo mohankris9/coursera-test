@@ -85,30 +85,10 @@ body {
 
 	.navbar-header button.navbar-toggle {
 	clear: both;
-	margin-top: -46px;
+	margin-top: -40px;
 	}
 }
 
-@media (max-width: px) {
-	#nav-list {
-		background-color: #555;
-	}
-
-	#collapsable-nav {
-		background-color: #555;
-	}
-
-	#logo-img-small {
-		width: 250px;
-		height: 37px;
-		margin: 20px 10px 10px 15px;
-	}
-
-	.navbar-header button.navbar-toggle {
-	clear: both;
-	margin-top: -44px;
-}
-}
 /* END MEDIA QUERIES */
 
 
